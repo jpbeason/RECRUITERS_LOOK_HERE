@@ -1,7 +1,7 @@
 # RECRUITERS_LOOK_HERE
 A collection of projects available for professional review (I'm unable to make the source code publicly available due to Umich Engineering's Honor Code).  Feel free to shoot me an e-mail at jpbeason@umich.edu to request source code :)
 
-*Also be sure to check out my website: [jakebeason.com](https://jakebeason.com/).*
+*Also be sure to check out my website: [jakebeason.com](https://jakebeason.com/)*
 
 
 ## Auggr: An Android-based Augmented Reality Application
