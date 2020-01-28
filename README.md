@@ -4,16 +4,19 @@ A collection of projects available for professional review (I'm unable to make t
 *Also be sure to check out my website: [jakebeason.com](https://jakebeason.com/)*
 
 
+
 ## Auggr: An Android-based Augmented Reality Application
 A mobile application geared toward enriching the customer-business relatinship through augmented reality (AR). See the full description [here](https://jakebeason.com/auggr).
 
 **Technologies:** C#, PHP, Unity, Android development, Vuforia, 3D modeling
 
 
+
 ## Web-based Music Library
 An online alternative to iTunes allowing users to search and browse tracks and artist information and filter by genre.
 
 **Technologies:** JavaScript, jQuery, Boostrap, Vue.js, and Axios (iTunes & Wikipedia API calls)
+
 
 ## Flickr Photo Carousel
 A simple site that pulls daily photo highlights from Flickr and allows the user to browse related photos and galleries.
