@@ -6,7 +6,7 @@ A collection of projects available for professional review (I'm unable to make t
 
 
 ## Auggr: An Android-based Augmented Reality Application
-A mobile application geared toward enriching the customer-business relatinship through augmented reality (AR). See the full description [here](https://jakebeason.com/auggr).
+A mobile application geared toward enriching the customer-business relationship through augmented reality (AR). See the full description [here](https://jakebeason.com/auggr).
 
 **Technologies:** C#, PHP, Unity, Android development, Vuforia, 3D modeling
 
